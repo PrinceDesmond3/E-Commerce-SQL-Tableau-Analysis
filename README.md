@@ -54,7 +54,7 @@ The goal is to support business decision-making through data-driven recommendati
 
 ## 🗂️ Folder Structure 
 - [ SQL Query Script](./sql_scripts)
-- [ Tableau Dashbpoard](./tableau_visuals)
+- [ Tableau Dashboard](./tableau_visuals)
 - [Presentation](./presentation)
 - [Data](./Data)
 
@@ -78,7 +78,7 @@ The goal is to support business decision-making through data-driven recommendati
 ### 4) Top Sellers
 - A small set of sellers contribute a large share of revenue.  
 - High-rated sellers usually have faster delivery times.
-- 
+  
 
 ##  Dashboard Link
 **Tableau Public:** [View Dashboard on Tableau Public](https://public.tableau.com/views/olist1_17615850857480/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
@@ -99,9 +99,10 @@ The goal is to support business decision-making through data-driven recommendati
 ---
 
 ## 🙋‍♂️ About Me
-**Chukwuemeka Nnamani** — Aspiring Data Analyst  
-Email: your.email@example.com  
-LinkedIn: https://www.linkedin.com/in/yourprofile
+**Chukwuemeka Nnamani** — Data Analyst  
+Email: [desmondnnamani.analytics@gmail.com](mailto:desmondnnamani.analytics@gmail.com)
+LinkedIn: [Nnamani Desmond](https://www.linkedin.com/in/nnamani-desmond)
+Portfolio Website: [View My Data Analytics Portfolio]
 
 
 
