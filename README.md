@@ -100,9 +100,9 @@ The goal is to support business decision-making through data-driven recommendati
 
 ## 🙋‍♂️ About Me
 **Chukwuemeka Nnamani** — Data Analyst  
-Email: [desmondnnamani.analytics@gmail.com](mailto:desmondnnamani.analytics@gmail.com)
-LinkedIn: [Nnamani Desmond](https://www.linkedin.com/in/nnamani-desmond)
-Portfolio Website: [View My Data Analytics Portfolio]
+- **LinkedIn:** [Nnamani Desmond](https://www.linkedin.com/in/nnamani-desmond)
+- **Email:** [desmondnnamani.analytics@gmail.com](mailto:desmondnnamani.analytics@gmail.com)
+- **Portfolio Website:** [View My Data Analytics Portfolio](https://www.notion.so/Nnamani-Desmond-Data-Analyst-Portfolio-2886efe54edd809cb0b5e0f4faa7fcb6?source=copy_link)
 
 
 
