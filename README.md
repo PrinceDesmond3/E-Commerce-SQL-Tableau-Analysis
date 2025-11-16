@@ -53,7 +53,7 @@ The goal is to support business decision-making through data-driven recommendati
 ---
 
 ## 🗂️ Folder Structure 
-- [🧮 SQL Query Script](.sql_scripts)
+- [🧮 SQL Query Script](./sql_scripts)
 - [📊 Exported CSV Files](./Top_Customers_By_Spending.csv)
 - [📈 Tableau Workbook File](./MusicStore_Dashboard.twb)
 - [🖼️ Dashboard Preview](./dashboard_preview.png)
