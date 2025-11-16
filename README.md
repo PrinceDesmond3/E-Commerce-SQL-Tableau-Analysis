@@ -52,11 +52,12 @@ The goal is to support business decision-making through data-driven recommendati
 
 ---
 
-## 🗂️ Folder Structure 
+## 🗂️ Folder Structure
+- [Data](./Data)
 - [ SQL Query Script](./sql_scripts)
 - [ Tableau Dashboard](./tableau_visuals)
 - [Presentation](./presentation)
-- [Data](./Data)
+
 
 ---
 
