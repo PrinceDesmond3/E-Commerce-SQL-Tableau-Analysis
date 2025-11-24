@@ -87,7 +87,7 @@ The goal is to support business decision-making through data-driven recommendati
 
 ##  Presentation / Video
 - **PowerPoint (Slides):** `Presentation/Olist_Project_Presentation.pptx`  
-- **6-minute video:** [Watch Video](#) *(replace `https://youtu.be/-XaoK-iRljo?si=lKI4vx3L8u9eHUi4` with your video link)*
+- **6-minute video:** [Watch Video](https://youtu.be/-XaoK-iRljo?si=lKI4vx3L8u9eHUi4) *(replace `https://youtu.be/-XaoK-iRljo?si=lKI4vx3L8u9eHUi4` with your video link)*
 
 
 ##  Final Recommendations
