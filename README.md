@@ -73,7 +73,7 @@ The goal is to support business decision-making through data-driven recommendati
 - Southeastern states account for the majority of revenue.
 
 ### 3) Customer Retention
-- Retention improved year-over-year (example: **0% → 9% → 17%**).  
+- We have very little recurring customers 
 - Repeat customers have higher average order values.
 
 ### 4) Top Sellers
